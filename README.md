@@ -16,7 +16,7 @@ This repository provides an easy-to-follow script for setting up multiple instan
 Start by cloning the repository to your server:
 
 ```bash
-git clone [https://github.com/fullmoonsaving321/Multiple.cc-Node-Setup-easy.git](https://github.com/node-helper/Multiple.cc-Node-Setup-easy.git)
+git clone https://github.com/node-helper/Multiple.cc-Node-Setup-easy.git
 ```
 
 ### 2. Navigate to the project directory
